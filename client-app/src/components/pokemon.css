@@ -95,8 +95,8 @@
 
 button {
     cursor: pointer;
-    background-color: #81b29a;
-    color:#3d405b;
+    background-color: #3d3d3d;
+    color:#ffd154;
     padding:0.5rem;
     border-radius: 12px;
     font-size: 1.5rem;
@@ -105,8 +105,7 @@ button {
 }
 button:hover {
     cursor: pointer;
-    background-color: #61997e;
-    color:#3d405b;
+    color:#d3d3d3;
     padding:0.5rem;
     border-radius: 12px;
     font-size: 1.5rem;

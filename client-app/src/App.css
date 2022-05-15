@@ -14,7 +14,9 @@ body {
   overflow-x: hidden;
   font-size: 1.15rem;
   font-family: "Montserrat", sans-serif;
-  background-color: #3d405b;
+  /* background-color: #3d405b; */
+  background-image: url(https://wallpaper.dog/large/10750356.png) ;
+  background-size: cover;
 }
 
 .container {

@@ -49,7 +49,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <div className="container">
-        <header className="pokemon-header">Pokemon</header>
+        <img src="https://i.pinimg.com/originals/fd/18/c6/fd18c6d26d4d9d26a0bd9d1a2fb2bd04.png" alt="PokemonLogo"  style={{height: "7rem"}}/>
         <PokemonCollection pokemons={pokemons} viewDetails={viewDetails} setViewDetails={setViewDetails}/>
 
         {!viewDetails.isOpened && (
